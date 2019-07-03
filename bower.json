@@ -1,0 +1,7 @@
+{
+  "name": "AndrewJasinski",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery.mb.ytplayer": "2.9.4"
+  }
+}
